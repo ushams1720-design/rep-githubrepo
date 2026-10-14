@@ -1,0 +1,10 @@
+{
+	"name": "LS adls",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobFS",
+		"typeProperties": {
+			"url": "https://adlshealth.dfs.core.windows.net/"
+		}
+	}
+}
