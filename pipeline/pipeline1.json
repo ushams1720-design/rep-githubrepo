@@ -53,7 +53,7 @@
 						"referenceName": "ds_ADLS_par",
 						"type": "DatasetReference",
 						"parameters": {
-							"container": "Landing",
+							"container": "landing",
 							"folder": "test_folder"
 						}
 					}
